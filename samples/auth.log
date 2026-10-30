@@ -1,0 +1,7 @@
+Oct 22 09:10:01 server sshd[1201]: Failed password for admin from 192.168.1.25 port 50122 ssh2
+Oct 22 09:10:04 server sshd[1202]: Failed password for admin from 192.168.1.25 port 50123 ssh2
+Oct 22 09:10:07 server sshd[1203]: Failed password for root from 203.0.113.45 port 50124 ssh2
+Oct 22 09:10:10 server sshd[1204]: Failed password for root from 203.0.113.45 port 50125 ssh2
+Oct 22 09:10:13 server sshd[1205]: Failed password for root from 203.0.113.45 port 50126 ssh2
+Oct 22 09:11:00 server sshd[1206]: Accepted password for karim from 192.168.1.10 port 50127 ssh2
+Oct 22 09:12:30 server sshd[1207]: Failed password for test from 198.51.100.23 port 50128 ssh2
